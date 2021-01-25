@@ -1,0 +1,6 @@
+ID                                                  NOMBRE                         CODIGO                    PRECIO                    CANTIDAD
+------------------------------------------------------------------------------------------------------------------------------------------------------
+03ceecadc6554e1fa3c00b9aa71e2087                    Disco de Miley Cyrus                    MC2020                    200                    7
+4fbf42ef633f4a7b965e55cedcf0d6d4                    Disco de Selena Gomez                    SG2020                    250                    9
+2f6612541d2b489789064d7e70609794                    Pelicula Gladiador                    GL2020                    180                    3
+40f99b4366134a9caeb3943f740dc6a6                    Pelicula El renacido                    RE2020                    170                    4
